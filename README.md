@@ -1,5 +1,6 @@
 # maiablocks-instagram-engagement
-Instagram Engagement Automation powered by Selenium and Google WebDriver
+Instagram Engagement Automation powered by Selenium and Google WebDriver.
+# THIS SCRIPTS IS COMPATIBLE WITH WINDOWS AND USES WIN32 MODULES
 
 This Scripts requires the following Python Modules
 1. Selenium       // pip install selenium
